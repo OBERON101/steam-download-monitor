@@ -1,0 +1,16 @@
+# Steam Download Monitor Requirements
+# 
+# Этот проект использует только стандартные библиотеки Python
+# и не требует установки дополнительных пакетов.
+# 
+# Минимальная версия Python: 3.7+
+# 
+# Используемые стандартные библиотеки:
+# - os
+# - re
+# - time
+# - winreg (только для Windows)
+# - struct
+# - pathlib
+# - datetime
+# - typing
